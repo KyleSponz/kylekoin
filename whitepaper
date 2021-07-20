@@ -1,0 +1,40 @@
+Justification for the idea
+
+The upfront cost for game companies to try to implement even a payment system within their game infrastructure can be astronomical at times, or if wanting to save money, manually intensive. There are very  few simple solutions for payment gateways as a whole, usually requiring the launch of an SDK (Software Development Kit) on the game server itself, requiring countless hours of code editing and a massive security overhaul. 
+
+Another major issue is security. Even the best of those in the gaming development community find themselves prone to major security breaches, which can result in the loss of revenue, customer data or even a complete collapse of an online games ecosystem.
+
+In comes blockchain. 
+
+With blockchain validation there is no risk of a simple server vulnerability collapsing a games economy or threatening the loss of both personal and financial data of the players or of the company. 
+
+
+
+Adoptability
+A core tenet of the kylekoin system is to allow for mass adoptability of blockchain by game companies. To facilitate this the kylekoin project will provide plugins, code modules and the like to make the blockchain drop in and easily interfaceable with existing tool chains. 
+1.	The creation of an Unreal Engine (UE) plugin to facilitate easy integration with existing systems. 
+2.	The creation of an apple iOS binary to facilitate easy integration with mobile games in the apple ecosysem 
+3.	the creation of an android binary to facilitate integration within the Android ecosystem 
+4.	the implementation of full api control of the studios player wallets 
+Further the kylekoin project will create a method for the game creator to exert as much or as little control over the players individual wallets as they desire. This is to attract a wider range of organizations who may not yet be comfortable with full decentralization of their in-game economies. 
+
+
+Technology
+	UE Plug-in
+
+Each new verified account for any given game will be given a (Insert Decided Name here) wallet address and the mnemonic seed. This will not only establish their crypto wallet, but their user data as well .  With this account they will be able to collect NFT items in game, send and receive (decided  name) via trade and earn it via play if the game developer  chooses to allow that. 
+
+	Webapp
+	The kylekoin coin will also comprise a webapp and api that will provide for point and click control of the wallets controlled by the gamers and also for the easy addition of new items and in game currencies. This web app will provide for the following features 
+	Unlimited custom tokens
+	The wallet will generate and make available to the game creators unlimited tokens for normal use. For example these could be used for in game currency, generic weapons or items. 
+	Unlimited NFT tokens
+	For special items only a single token can be created thus allowing for unique and special prizes or items to be created. 
+	Delegated tx costs. 
+	All transaction costs will be paid by the developers account with kylekoin, this allows non crypto savvy gamers an easy experience 
+	Managed wallets
+	All gamer wallets can at the game creators option be managed, this will have benefits to allow for giveaways, anti cheating, and data mining of the players behavior 
+
+Tokenomics
+The fees for this system will be paid for with our base kylekoin token, this token will be acquired by the game creators and spent for use of the system, both the transactions and for the creation of new items. The token spent will be used as per the following ⅓ will pay the TX Costs ⅓ will be sent to the community at large and ⅓ will be sent to the project for salaries and expenses. 
+
